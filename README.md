@@ -1,3 +1,11 @@
+# KELOMPOK B CAPSTONE PROJECT
+
+- Arif Maulana (051522256)
+- Bryan Adam Samuel S (049864261)
+- Nurlaelatus Solihah (049932443)
+- Sukmawandi (050629283)
+- Teddy Aldrin P (051318287)
+
 # Ma Rahma POS
 
 Sistem kasir dan manajemen bahan baku untuk Ayam Penyet Ma Rahma.
